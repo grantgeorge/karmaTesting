@@ -1,4 +1,4 @@
-karmaTesting
+AngularJS + Karma Testing Basics
 ============
 
 karmaTesting
