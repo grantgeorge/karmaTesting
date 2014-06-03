@@ -1,7 +1,7 @@
 AngularJS + Karma Testing Basics
 ============
 
-#Why is Testing Important
+##Why is Testing Important
 
 
 
